@@ -1,16 +1,17 @@
-### Hi there 👋
+# notzer0 🏳‍🌈
+I like VR and programming.
 
-<!--
-**i386sh/i386sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### HMD
+Oculus Quest 2  
+Acer WMR  
+Vive  
 
-Here are some ideas to get you started:
+### Specs  
+R5 2600 w/ Hyper 212X  
+32GB DDR4  
+MSI 580 8GB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What do I do?
+I do support for [KinectToVR](https://github.com/KinectToVR).
+I also occasionally work on my own projects.
+
