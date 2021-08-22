@@ -1,15 +1,15 @@
 # notzer0 🏳‍🌈
-I like VR and programming.
+I like VR and programming. I primarily am on NeosVR probably writing bad LogiX.
 
 ### HMD
-Oculus Quest 2  
-Acer WMR  
-Vive  
+Oculus Quest 2 (main)  
+Acer AH101 WMR  
+HTC Vive (original variant)  
 
-### Specs  
-R5 2600 w/ Hyper 212X  
+### deimos (main)  
+AMD Ryzen 5 2600 w/ Hyper 212X  
 32GB DDR4  
-MSI 580 8GB  
+MSI ARMOR AMD Radeon RX 580 8GB  
 
 ### What do I do?
 I do support for [KinectToVR](https://github.com/KinectToVR).
