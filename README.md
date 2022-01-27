@@ -9,7 +9,7 @@ HTC Vive (original variant)
 ### deimos (main)  
 AMD Ryzen 5 2600 w/ Hyper 212X  
 32GB DDR4  
-MSI ARMOR AMD Radeon RX 580 8GB  
+Gigabyte Aorus Master RTX 3070
 
 ### What do I do?
 I do support for [KinectToVR](https://github.com/KinectToVR).
