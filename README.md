@@ -7,7 +7,7 @@ Acer AH101 WMR
 HTC Vive (original variant)  
 
 ### deimos (main)  
-AMD Ryzen 5 2600 w/ Hyper 212X  
+AMD Ryzen 5 5600 w/ Hyper 212X  
 32GB DDR4  
 Gigabyte Aorus Master RTX 3070
 
