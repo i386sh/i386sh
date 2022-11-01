@@ -1,17 +1,20 @@
-# notzer0 🏳‍🌈
-I like VR and programming. I primarily am on NeosVR probably writing bad LogiX.
+# [notzer0](https://womp.gay) 🏳‍🌈
+I like VR and programming.  
+  
+[Twitter](https://twitter.com)
 
-### HMD
-Oculus Quest 2 (main)  
-Acer AH101 WMR  
-HTC Vive (original variant)  
-
-### deimos (main)  
+### PC Specs  
 AMD Ryzen 5 5600 w/ Hyper 212X  
 32GB DDR4  
 Gigabyte Aorus Master RTX 3070
 
+### Peripherals
+Oculus Quest 2 (main HMD)  
+3x Vive Tracker 3.0  
+Keychron C1  
+G305  
+  
 ### What do I do?
-I do support for [KinectToVR](https://github.com/KinectToVR).
-I also occasionally work on my own projects.
+I do support for [KinectToVR](https://github.com/KinectToVR).  
+I also *sometimes* work on my own stuff.. when I've got time 😅
 
