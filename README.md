@@ -2,7 +2,7 @@
 I like VR and programming.  
   
 [Twitter](https://twitter.com/notzer0c)
-[Twitter](https://wetdry.world/@nz)
+[Mastodon](https://wetdry.world/@nz)
 
 
 ### PC Specs  
