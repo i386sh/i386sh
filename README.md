@@ -1,7 +1,6 @@
 # [notzer0](https://womp.gay) 🏳‍🌈
-I like VR and programming.  
   
-[Twitter](https://twitter.com/notzer0c)
+[Twitter](https://twitter.com/notzer0c)  
 [Mastodon](https://wetdry.world/@nz)
 
 
@@ -11,10 +10,10 @@ I like VR and programming.
 - Gigabyte Aorus Master RTX 3070
 
 ### Peripherals
-- Oculus Quest 2 (main HMD)  
+- Oculus Quest 2 w/ 20,000mAh battery bank (main HMD, with Virtual Desktop.)  
 - 3x Vive Tracker 3.0  
-- Keychron C1  
-- G305  
+- Keychron C1 (case filled with packing foam, no software mods.)  
+- Black G305  
   
 ### What do I do?
 I do support for Amethyst as part of [K2VR Team](https://github.com/KinectToVR).  
