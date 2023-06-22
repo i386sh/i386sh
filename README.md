@@ -16,6 +16,5 @@
 - Black G305  
   
 ### What do I do?
-I do support for Amethyst as part of [K2VR Team](https://github.com/KinectToVR).  
-I also *sometimes* work on my own stuff.
+I *sometimes* work on my own stuff.
 
